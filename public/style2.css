@@ -1,0 +1,23 @@
+#fb{
+	position: fixed;
+	float: left;
+	margin: 0 auto;
+	padding: 10px;
+	border: aquamarine solid 2px;
+	height: 100%;
+}
+
+.links{
+	margin: 5px;
+	padding: 5px;
+}
+
+#master{
+	padding-left: 170px
+}
+
+.container { 
+	width: 500px;
+	float: left;
+	padding-left: 0px;
+}
